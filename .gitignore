@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Dados brutos e processados — arquivos grandes
+data/raw/
+data/processed/
+
+# Cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDX
+.idx/
