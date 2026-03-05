@@ -7,7 +7,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 
----
+> *Abra o Projeto Online clicando no botão abaixo:*
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-segmentation-platform.streamlit.app/)
+
 
 ## 📌 Sobre o projeto
 
